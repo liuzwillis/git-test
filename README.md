@@ -2,4 +2,5 @@
 github-test
 
     - feature-A
+    - feature-B
 
